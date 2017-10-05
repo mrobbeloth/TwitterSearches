@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Twitter Searches</string>
+    <string name="query_prompt">Enter Twitter search query here</string>
+    <string name="tag_query_prompt">Tag your Query</string>
+    <string name="OK">OK</string>
+    <string name="missingMessage">Missing tag and/or query </string>
+    <string name="searchURL">https://twitter.com/search?q=</string>
+    <string name="shareEditDeleteTitle">Share, Edit, or Delete the search tagged as %s</string>
+    <string-array name="dialog_items">
+        Share
+        Edit
+        Delete
+    </string-array>
+    <string name="shareSubject">Twitter search that might interest you</string>
+    <string name="shareMessage">Check out the results of this Twitter Search: %s </string>
+    <string name="shareSearch">Share Search to:</string>
+    <string name="confirmMessage">Are you sure you want to delete the search %s ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
